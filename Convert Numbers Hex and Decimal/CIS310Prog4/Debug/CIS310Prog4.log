@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\neo\documents\visual studio 2015\projects\cis310prog4\cis310prog4\source.cpp(125): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis310prog4\cis310prog4\source.cpp(167): warning C4018: '<': signed/unsigned mismatch
+c:\users\neo\documents\visual studio 2015\projects\cis310prog4\cis310prog4\source.cpp(169): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  CIS310Prog4.vcxproj -> C:\Users\Neo\Documents\Visual Studio 2015\Projects\CIS310Prog4\Debug\CIS310Prog4.exe
